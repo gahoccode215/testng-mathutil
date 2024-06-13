@@ -10,7 +10,7 @@
 * and more...
 
 # Screenshots
-![Source code and test script](https://github.com/gahoccode215/math-util/blob/main/screenshots/Screenshot%202024-06-05%20180550.png)
+![Source code and test script](https://github.com/gahoccode215/testng-mathutil/blob/main/screenshots/Screenshot%202024-06-13%20205653.png)
 
 ### Connect me via: dominhit215@gmail.com
 
