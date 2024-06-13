@@ -1,14 +1,12 @@
-[![Math Utility Project ( CI inclued )](https://github.com/gahoccode215/math-util/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/gahoccode215/math-util/actions/workflows/maven.yml)
+[![Math Utility Project ( CI inclued )](https://github.com/gahoccode215/testng-mathutil/actions/workflows/maven.yml/badge.svg)](https://github.com/gahoccode215/testng-mathutil/actions/workflows/maven.yml)
 
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff
 
 * A Java Project (using Maven) to demonstrate a Math library as in JDK
-* A Unit Test test script using JUnit Test framework, and TDD, DDT technique
+* A Unit Test test script using TestNG Test framework, and TDD, DDT technique
 * A CI script to demonstrate the Continous Integration using GitHub Actions with Maven
-* A demonstraation on how to produce confliction and how to merge the code within a teamwork
-* A demonstration oon what is the regression Test (Kiểm thử hồi quy)
 * and more...
 
 # Screenshots
